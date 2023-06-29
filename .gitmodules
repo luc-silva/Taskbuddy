@@ -1,0 +1,6 @@
+[submodule "Taskbuddy-client"]
+	path = Taskbuddy-client
+	url = https://github.com/luc-silva/Taskbuddy-client
+[submodule "Taskbuddy-api"]
+	path = Taskbuddy-api
+	url = https://github.com/luc-silva/Taskbuddy-api
