@@ -1,0 +1,42 @@
+version: '3'
+
+services:
+  mysql:
+    image: mysql:latest
+
+    networks:
+      - sqldatabase
+
+    environment:
+      - MYSQL_ROOT_PASSWORD=lucas1353
+      - MYSQL_DATABASE=taskbuddy
+
+  spring-api:
+    image: maven:latest
+
+    networks:
+      - sqldatabase
+
+    volumes:
+      - ./:/app
+
+    working_dir: /app
+
+    command: mvn spring-boot:run
+
+    ports:
+      - 8080:8080
+
+  react-client:
+    image: node:lts
+
+    volumes:
+      - ./Taskbuddy-client:/app
+
+    working_dir: /app
+
+    command: bash -c 'npm install && npm run dev'
+
+networks:
+  sqldatabase: 
+    
