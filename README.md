@@ -25,7 +25,7 @@ cd Taskbuddy
 cd Taskbuddy; sudo docker compose up -d
 ```
 
-4 - Open Taskbuddy web page (localhost:3000)
+4 - Open Taskbuddy web page (localhost:3033)
 
 ### Method 2 (requires Node, JDK-11, Maven and MySql)
 
