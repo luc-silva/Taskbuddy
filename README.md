@@ -66,10 +66,11 @@ cd ..; cd Taskbuddy-api; mvn spring-boot:run
 
 ## Images
 
-![todo1](https://user-images.githubusercontent.com/100732316/219161697-d570ba52-66e6-4a8d-8384-6495e9e5387c.png)
-![todo2](https://user-images.githubusercontent.com/100732316/219161715-353ac968-96b8-4657-850e-ff57dbe54ba6.png)
-![todo3](https://user-images.githubusercontent.com/100732316/219161719-ad157bde-e120-47b9-946b-c43e9359ae02.png)
-![todo4](https://user-images.githubusercontent.com/100732316/219161725-3329e7da-cdbe-4b95-b70b-259917b4bed6.png)
+![project-taskbuddy-1](https://github.com/luc-silva/Taskbuddy/assets/100732316/f0cfc65c-3705-468f-a0c7-0242e46f1688)
+![project-taskbuddy-2](https://github.com/luc-silva/Taskbuddy/assets/100732316/754b78ab-bd18-41ce-9bf7-abe54aa487a3)
+![project-taskbuddy-6](https://github.com/luc-silva/Taskbuddy/assets/100732316/d3b0712e-96c1-4fd0-9804-b61ca79b78fb)
+![project-taskbuddy-5](https://github.com/luc-silva/Taskbuddy/assets/100732316/861b5ed8-1926-4b7f-bca3-5943aca5831f)
+
 
 ## Plans
 
