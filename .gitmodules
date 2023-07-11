@@ -1,6 +1,9 @@
 [submodule "Taskbuddy-client"]
 	path = Taskbuddy-client
 	url = https://github.com/luc-silva/Taskbuddy-client
-[submodule "Taskbuddy-api"]
-	path = Taskbuddy-api
+[submodule "Taskbuddy-spring-api"]
+	path = Taskbuddy-spring-api
 	url = https://github.com/luc-silva/Taskbuddy-api
+[submodule "Taskbuddy-typescript-api"]
+	path = Taskbuddy-typescript-api
+	url = https://github.com/luc-silva/Taskbuddy-api-v2
