@@ -1,4 +1,4 @@
-# Taskbuddy-API
+# Taskbuddy
 
 Taskbuddy is a to-do manager made by me initialy as a project for The Odin Project curriculum.
 Client was made with Typescript & React while API with Java and Spring-boot.
